@@ -1,0 +1,66 @@
+export const socialConfig = [
+  {
+    name: "Twitter",
+    url: "https://twitter.com/yourusername",
+    icon: "Twitter",
+    color: "#1DA1F2",
+    show: true,
+  },
+  {
+    name: "Instagram",
+    url: "https://instagram.com/yourusername",
+    icon: "Instagram",
+    color: "#E4405F",
+    show: true,
+  },
+  {
+    name: "TikTok",
+    url: "https://tiktok.com/@yourusername",
+    icon: "Music",
+    color: "#000000",
+    show: true,
+  },
+  {
+    name: "YouTube",
+    url: "https://youtube.com/@yourusername",
+    icon: "Youtube",
+    color: "#FF0000",
+    show: true,
+  },
+  {
+    name: "Twitch",
+    url: "https://twitch.tv/yourusername",
+    icon: "Twitch",
+    color: "#9146FF",
+    show: true,
+  },
+  {
+    name: "GitHub",
+    url: "https://github.com/yourusername",
+    icon: "Github",
+    color: "#6e5494",
+    show: true,
+  },
+  {
+    name: "LinkedIn",
+    url: "https://linkedin.com/in/yourusername",
+    icon: "Linkedin",
+    color: "#0077B5",
+    show: true,
+  },
+  {
+    name: "Facebook",
+    url: "https://facebook.com/yourusername",
+    icon: "Facebook",
+    color: "#1877F2",
+    show: true,
+  },
+  {
+    name: "Email",
+    url: "mailto:your.email@example.com",
+    icon: "Mail",
+    color: "#ffffff",
+    show: true,
+  },
+]
+
